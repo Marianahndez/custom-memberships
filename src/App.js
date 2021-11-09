@@ -122,7 +122,7 @@ function App() {
         <Grid direction="row" justifyContent="center" alignItems="center" spacing={2} xs={12} md={6} className="padd-4">
           <Grid item xs={10} md={10} className="container-center price-container">
             <p className="price">{price}</p>
-            <Button variant="contained" href={buttonURL}>¡Contrata ahora!</Button>
+            <Button variant="contained" target="_blank" href={buttonURL}>¡Contrata ahora!</Button>
           </Grid>
         </Grid> 
       </div>
