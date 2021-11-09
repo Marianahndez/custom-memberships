@@ -1,0 +1,70 @@
+.app {
+  text-align: center;
+  color: #0c1a5a;
+  margin: 3%;
+  margin-top: 0px !important;
+  display: flex;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-top: 0px !important;
+  border: 0.5px solid #c7c7c7;
+  @media (max-width: 768px) {
+    display: block !important;
+  }
+}
+.header-app{
+  margin: 3%;
+  margin-bottom: 0px !important;
+  border: 0.5px solid #c7c7c7;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  background-color: #20BFC2;
+  h3{
+    text-align: center;
+    font-family: 'Jost', sans-serif !important;
+    font-weight: 600;
+    font-size: 2.5rem;
+    text-transform: uppercase !important;
+    color: #fff;
+    margin: 1.2% 0;
+    @media (max-width: 768px) {
+      margin: 3% 0;
+      font-size: 2rem;
+    }
+  }
+}
+.padd-4 {
+  padding: 3%;
+  &.border-right{
+    border-right: 0.5px solid #c7c7c7;
+    @media (max-width: 768px) {
+      border-right: 0px !important;
+      border-bottom: 0.5px solid #c7c7c7;
+      padding: 8% 7% 10% 7%;
+    }
+  }
+}
+.mb-2{
+  margin-bottom: 2rem;
+}
+.container-center{
+  margin: 0 auto !important;
+}
+.price-container{
+  p.price{
+    font-size: 4.5rem;
+    margin: 0.5rem 0 0.5rem 0;
+    font-weight: 400;
+    font-family: 'Jost', sans-serif !important;
+  }
+  @media (max-width: 768px) {
+    padding-bottom: 4%;
+  }
+}
+.MuiButton-contained{
+  width: 100%;
+  background-color: #0c1a5a !important;
+  border-radius: 25px !important;
+  font-family: 'Jost', sans-serif !important;
+  font-weight: 600 !important;
+}
