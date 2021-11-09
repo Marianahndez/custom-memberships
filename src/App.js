@@ -15,6 +15,7 @@ function App() {
   const [appointments, setAppointments] = useState('');
   const [apptsArray, setApptsArray] = useState([]);
   const [price, setPrice] = useState("$0");
+  const [buttonURL, setButtonURL] = useState("");
 
   useEffect(() => {
     if((apptsArray.length !== 0)){
@@ -57,7 +58,7 @@ function App() {
       
       if(p !== undefined) {
         setPrice(p.price);
-        // setPrice("$0");
+        setButtonURL(p.buttonLink);
       } 
     }
   }, [appointments, apptsArray]);
@@ -119,9 +120,9 @@ function App() {
           </Grid>
         </Grid>
         <Grid direction="row" justifyContent="center" alignItems="center" spacing={2} xs={12} md={6} className="padd-4">
-          <Grid item xs={10} md={4} className="container-center price-container">
+          <Grid item xs={10} md={10} className="container-center price-container">
             <p className="price">{price}</p>
-            <Button variant="contained" href="https://eucalyptusmed.com/mockup-new-design/">¡Contrata ahora!</Button>
+            <Button variant="contained" href={buttonURL}>¡Contrata ahora!</Button>
           </Grid>
         </Grid> 
       </div>
