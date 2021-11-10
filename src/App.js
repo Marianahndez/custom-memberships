@@ -37,12 +37,12 @@ function App() {
         setApptsArray(y);
       }
         break;
-      case (age === "Membresia Personal"): {
+      case (age === "Membresía Personalizada"): {
         let y = x.dates.map((val) => { return val });
         setApptsArray(y);
       }
         break;
-      case (age === "Membresia Personal Plus"): {
+      case (age === "Membresía Personalizada PLUS"): {
         let y = x.dates.map((val) => { return val });
         setApptsArray(y);
       }
