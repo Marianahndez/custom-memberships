@@ -6,6 +6,7 @@
                         {
                             "id": 1,
                             "price": "$1,800",
+                            "discountPrice": "$1,800",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         }
                     ]
@@ -16,6 +17,7 @@
                         {
                             "id": 2,
                             "price": "$3,600",
+                            "discountPrice": "$1,600",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         }
                     ]
@@ -26,66 +28,79 @@
                         {
                             "id": 3,
                             "price": "$4,500",
+                            "discountPrice": "$3,900",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 4,
                             "price": "$5,900",
+                            "discountPrice": "$5,200",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 5,
                             "price": "$7,400",
+                            "discountPrice": "$6,500",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 6,
                             "price": "$8,900",
+                            "discountPrice": "$7,800",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 7,
                             "price": "$10,400",
+                            "discountPrice": "$9,100",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 8,
                             "price": "$11,900",
+                            "discountPrice": "$10,400",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 9,
                             "price": "$13,400",
+                            "discountPrice": "$11,700",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 10,
                             "price": "$14,900",
+                            "discountPrice": "$13,000",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 11,
                             "price": "$16,400",
+                            "discountPrice": "$14,300",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 12,
                             "price": "$17,800",
+                            "discountPrice": "$15,600",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 13,
                             "price": "$19,300",
+                            "discountPrice": "$16,900",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 14,
                             "price": "$20,800",
+                            "discountPrice": "$18,200",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 15,
                             "price": "$22,300",
+                            "discountPrice": "$19,500",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         }
                     ]
@@ -96,66 +111,79 @@
                         {
                             "id": 3,
                             "price": "$7,500",
+                            "discountPrice": "$6,900",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 4,
                             "price": "$8,900",
+                            "discountPrice": "$8,200",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 5,
                             "price": "$10,400",
+                            "discountPrice": "$9,500",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 6,
                             "price": "$11,900",
+                            "discountPrice": "$10,800",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 7,
                             "price": "$13,400",
+                            "discountPrice": "$12,100",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 8,
                             "price": "$14,900",
+                            "discountPrice": "$13,400",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 9,
                             "price": "$16,400",
+                            "discountPrice": "$14,700",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 10,
                             "price": "$17,900",
+                            "discountPrice": "$16,000",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 11,
                             "price": "$19,400",
+                            "discountPrice": "$17,300",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 12,
                             "price": "$20,800",
+                            "discountPrice": "$18,600",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 13,
                             "price": "$22,300",
+                            "discountPrice": "$19,900",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 14,
                             "price": "$23,800",
+                            "discountPrice": "$21,200",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         },
                         {
                             "id": 15,
                             "price": "$25,300",
+                            "discountPrice": "$22,500",
                             "buttonLink": "https://eucalyptusmed.com/contacto/"
                         }
                     ]

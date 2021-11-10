@@ -57,7 +57,7 @@ function App() {
       let p = apptsArray.find((value) => value.id === appointments);
       
       if(p !== undefined) {
-        setPrice(p.price);
+        setPrice(p.discountPrice);
         setButtonURL(p.buttonLink);
       } 
     }
