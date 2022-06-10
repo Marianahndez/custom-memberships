@@ -1,17 +1,6 @@
 {
     "types": [
                 {
-                    "type": "Individual",
-                    "dates": [
-                        {
-                            "id": 1,
-                            "price": "$1,800",
-                            "discountPrice": "$1,800",
-                            "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-individual/"
-                        }
-                    ]
-                },
-                {
                     "type": "Primera Vez",
                     "dates": [
                         {
