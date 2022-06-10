@@ -85,24 +85,6 @@
                             "discountPrice": "$15,600",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-12/"
                         },
-                        /* {
-                            "id": 13,
-                            "price": "$19,300",
-                            "discountPrice": "$16,900",
-                            "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-13/"
-                        },
-                        {
-                            "id": 14,
-                            "price": "$20,800",
-                            "discountPrice": "$18,200",
-                            "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-14/"
-                        },
-                        {
-                            "id": 15,
-                            "price": "$22,300",
-                            "discountPrice": "$19,500",
-                            "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-15/"
-                        } */
                     ]
                 },
                 {
@@ -168,24 +150,6 @@
                             "discountPrice": "$18,990",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-12/"
                         },
-                        /* {
-                            "id": 13,
-                            "price": "$22,300",
-                            "discountPrice": "$19,900",
-                            "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-13/"
-                        },
-                        {
-                            "id": 14,
-                            "price": "$23,800",
-                            "discountPrice": "$21,200",
-                            "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-14/"
-                        },
-                        {
-                            "id": 15,
-                            "price": "$25,300",
-                            "discountPrice": "$22,500",
-                            "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-15/"
-                        } */
                     ]
                 }
             ]
