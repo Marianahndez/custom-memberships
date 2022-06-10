@@ -15,7 +15,7 @@
                     "type": "Primera Vez",
                     "dates": [
                         {
-                            "id": 1,
+                            "id": 2,
                             "price": "$3,600",
                             "discountPrice": "$900",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-primera-vez/"
@@ -28,64 +28,64 @@
                         {
                             "id": 3,
                             "price": "$4,500",
-                            "discountPrice": "$3,900",
+                            "discountPrice": "$3,780",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-3/"
                         },
                         {
                             "id": 4,
                             "price": "$5,900",
-                            "discountPrice": "$5,200",
+                            "discountPrice": "$5,040",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-4/"
                         },
                         {
                             "id": 5,
                             "price": "$7,400",
-                            "discountPrice": "$6,500",
+                            "discountPrice": "$6,300",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-5/"
                         },
                         {
                             "id": 6,
                             "price": "$8,900",
-                            "discountPrice": "$7,800",
+                            "discountPrice": "$7,560",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-6/"
                         },
                         {
                             "id": 7,
                             "price": "$10,400",
-                            "discountPrice": "$9,100",
+                            "discountPrice": "$8,820",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-7/"
                         },
                         {
                             "id": 8,
                             "price": "$11,900",
-                            "discountPrice": "$10,400",
+                            "discountPrice": "$10,080",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-8/"
                         },
                         {
                             "id": 9,
                             "price": "$13,400",
-                            "discountPrice": "$11,700",
+                            "discountPrice": "$11,340",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-9/"
                         },
                         {
                             "id": 10,
                             "price": "$14,900",
-                            "discountPrice": "$13,000",
+                            "discountPrice": "$12,600",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-10/"
                         },
                         {
                             "id": 11,
-                            "price": "$16,400",
+                            "price": "$13,860",
                             "discountPrice": "$14,300",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-11/"
                         },
                         {
                             "id": 12,
-                            "price": "$17,800",
+                            "price": "$15,120",
                             "discountPrice": "$15,600",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-12/"
                         },
-                        {
+                        /* {
                             "id": 13,
                             "price": "$19,300",
                             "discountPrice": "$16,900",
@@ -102,7 +102,7 @@
                             "price": "$22,300",
                             "discountPrice": "$19,500",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-15/"
-                        }
+                        } */
                     ]
                 },
                 {
@@ -111,64 +111,64 @@
                         {
                             "id": 3,
                             "price": "$7,500",
-                            "discountPrice": "$6,900",
+                            "discountPrice": "$7,650",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-3/"
                         },
                         {
                             "id": 4,
                             "price": "$8,900",
-                            "discountPrice": "$8,200",
+                            "discountPrice": "$8,910",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-4/"
                         },
                         {
                             "id": 5,
                             "price": "$10,400",
-                            "discountPrice": "$9,500",
+                            "discountPrice": "$10,170",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-5/"
                         },
                         {
                             "id": 6,
                             "price": "$11,900",
-                            "discountPrice": "$10,800",
+                            "discountPrice": "$11,430",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-6/"
                         },
                         {
                             "id": 7,
                             "price": "$13,400",
-                            "discountPrice": "$12,100",
+                            "discountPrice": "$12,690",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-7/"
                         },
                         {
                             "id": 8,
                             "price": "$14,900",
-                            "discountPrice": "$13,400",
+                            "discountPrice": "$13,950",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-8/"
                         },
                         {
                             "id": 9,
-                            "price": "$16,400",
+                            "price": "$15,210",
                             "discountPrice": "$14,700",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-9/"
                         },
                         {
                             "id": 10,
-                            "price": "$17,900",
+                            "price": "$16,470",
                             "discountPrice": "$16,000",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-10/"
                         },
                         {
                             "id": 11,
                             "price": "$19,400",
-                            "discountPrice": "$17,300",
+                            "discountPrice": "$17,730",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-11/"
                         },
                         {
                             "id": 12,
                             "price": "$20,800",
-                            "discountPrice": "$18,600",
+                            "discountPrice": "$18,990",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-12/"
                         },
-                        {
+                        /* {
                             "id": 13,
                             "price": "$22,300",
                             "discountPrice": "$19,900",
@@ -185,7 +185,7 @@
                             "price": "$25,300",
                             "discountPrice": "$22,500",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-plus-15/"
-                        }
+                        } */
                     ]
                 }
             ]
