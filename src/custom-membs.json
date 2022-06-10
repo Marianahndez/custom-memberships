@@ -15,9 +15,9 @@
                     "type": "Primera Vez",
                     "dates": [
                         {
-                            "id": 2,
+                            "id": 1,
                             "price": "$3,600",
-                            "discountPrice": "$1,600",
+                            "discountPrice": "$900",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-primera-vez/"
                         }
                     ]
