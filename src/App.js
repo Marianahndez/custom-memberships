@@ -27,7 +27,7 @@ function App() {
     let x = data.types.find((value) => value.type === age);
     
     switch (true) {
-      case (age === "Individual"): {
+      case (age === "Consulta Bajo Demanda"): {
         let y = x.dates.map((val) => { return val });
         setApptsArray(y);
       }
