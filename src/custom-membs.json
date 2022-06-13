@@ -1,10 +1,21 @@
 {
     "types": [
                 {
+                    "type": "Consulta Bajo Demanda",
+                    "dates": [
+                        {
+                            "id": 1,
+                            "price": "$3,600",
+                            "discountPrice": "$1,800",
+                            "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-primera-vez/"
+                        }
+                    ]
+                },
+                {
                     "type": "Primera Vez",
                     "dates": [
                         {
-                            "id": 2,
+                            "id": 1,
                             "price": "$3,600",
                             "discountPrice": "$900",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-primera-vez/"
@@ -65,13 +76,13 @@
                         {
                             "id": 11,
                             "price": "$13,860",
-                            "discountPrice": "$14,300",
+                            "discountPrice": "$13,860",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-11/"
                         },
                         {
                             "id": 12,
                             "price": "$15,120",
-                            "discountPrice": "$15,600",
+                            "discountPrice": "$15,120",
                             "buttonLink": "https://lyptusmedical.com/producto/membresia-personalizada-12/"
                         }
                     ]
